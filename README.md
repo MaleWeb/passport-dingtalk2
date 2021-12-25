@@ -27,5 +27,5 @@ using the OAuth 2.0 API.
     ));
 ## License
 
-The MIT License
+[MIT](./LICENSE)
 
