@@ -1,10 +1,11 @@
 # passport-dingtalk2
 
-dingtalk authentication strategy for passport
-最新版的钉钉的身份认证策略 [新版获取登录用户的访问凭证](https://open.dingtalk.com/document/orgapp-server/obtain-identity-credentials)
+dingtalk authentication strategy for passport  
+
+[新版获取登录用户的访问凭证](https://open.dingtalk.com/document/orgapp-server/obtain-identity-credentials)
 
 
-using the OAuth 2.0 API.
+using the OAuth 2.0 API.  
 使用OAuth 2.0 API
 
 

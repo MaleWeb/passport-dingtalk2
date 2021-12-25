@@ -1,6 +1,6 @@
 {
   "name": "passport-dingtalk2",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -13,7 +13,7 @@
     "email": "896226896@qq.com",
     "url": "http://github.com/MaleWeb"
   },
-  "repository": "git+ssh://git@github.com/uu-paotui/passport-dingtalk.git",
+  "repository": "git+ssh://git@github.com/uu-paotui/passport-dingtalk2.git",
   "bugs": {
     "url": "http://github.com/uu-paotui/passport-dingtalk/issues"
   },
@@ -33,5 +33,5 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "homepage": "https://github.com/uu-paotui/passport-dingtalk#readme"
+  "homepage": "https://github.com/uu-paotui/passport-dingtalk2#readme"
 }
